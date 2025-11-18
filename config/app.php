@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://profile-picture-uploader-production.up.railway.app'),
 
     /*
     |--------------------------------------------------------------------------
@@ -64,7 +64,7 @@ return [
     |
     */
 
-    'frontend_url' => env('FRONTEND_URL', 'http://localhost:5174'),
+    'frontend_url' => env('FRONTEND_URL', 'https://profile-picture-uploader-front.vercel.app'),
 
     /*
     |--------------------------------------------------------------------------
